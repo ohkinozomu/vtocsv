@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/bmatcuk/doublestar/v3 v3.0.0
-	golang.org/x/tools v0.1.8
+	golang.org/x/tools v0.1.9
 )
 
 require (
